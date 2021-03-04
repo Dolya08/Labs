@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  font-size: 2.2em;
+  text-align: center;
+  padding: 5px;
+  background: #FF5B29;
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 0;
+  background: #D71920;
+  color: #fff;
+}
+
+h3 {
+  text-align: center;
+  padding: 5px;
+  background: #FFDA00;
+  color: #0D00FF;
+  margin-top: 0;
+}
+
+.text {
+  margin: 5px;
+  padding: 5px;
+  margin-top: 0;
+  font-size: 1.5em;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.poem-left {
+  float: left;
+  margin: 15px 7px 7px 0;
+  font-size: 1.2em;
+}
+
+.poem-rigth {
+  float: right;
+  margin: 15px 7px 7px 0;
+  font-size: 1.2em;
+}
+
+footer {
+  clear: both;
+  padding: 5px;
+  background: #000;
+  color: #fff;
+}
+/*# sourceMappingURL=style.min.css.map */
